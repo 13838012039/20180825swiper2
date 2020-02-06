@@ -1,3 +1,3 @@
 # 20180825swiper2
 
-![GitHub All Releases](https://img.shields.io/github/downloads/@liwenhan/tiny/total)
+![npm (scoped)](https://img.shields.io/npm/v/@liwenhan/tiny)
