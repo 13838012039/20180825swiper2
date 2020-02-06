@@ -7,3 +7,5 @@
 
 
 - [Become a backer or sponsor on Patreon](https://www.patreon.com/evanyou).
+
+[vue-cli-package]: https://npmjs.com/package/@vue/cli
